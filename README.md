@@ -1,2 +1,2 @@
-# Quant-Analytics-Research-and-Development-Laboratory
+# Quant-Analytics-Research-and-Development Lab@Home
 Systems Development Life Cycle
